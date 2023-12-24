@@ -19,4 +19,4 @@ In the params_recourse_type.jl file:
 To run a different process network:
          change the compressor_train_data.jl file 
          params_recourse_type.jl, robust_counterpart.jl, and worst_case.jl need not be modified
-         solution_and_plots.jl has to modified naturally
+         solution_and_plots.jl has to be modified naturally
