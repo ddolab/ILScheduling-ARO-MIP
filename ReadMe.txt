@@ -14,7 +14,7 @@ In the compressor_train_data.jl file, the following parameters can be changed to
 
 In the params_recourse_type.jl file:
          breakpoint settings can be changed
-         no other parameters shoudl need tuning in this file
+         no other parameters should need tuning in this file
 
 To run a different process network:
          change the compressor_train_data.jl file 
